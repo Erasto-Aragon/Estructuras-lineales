@@ -23,4 +23,3 @@ Sera una array donde por cada casilla tendremos dos valores.
 El valor de la casilla y la posición de la siguiente casilla, para enlazar una con la siguiente, si quisiéramos cambiar el orden solamente debemos de cambiar el segundo valor ya que es el siguiente valor en la lista.
 
 ![image](https://user-images.githubusercontent.com/71147346/97447260-fcf60300-18f4-11eb-95f4-7ecb22fd78d0.png)
-![image](https://user-images.githubusercontent.com/71147346/97447281-01bab700-18f5-11eb-839d-864bb0a19b7e.png)
