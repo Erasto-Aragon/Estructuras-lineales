@@ -1,4 +1,4 @@
-# Estructuras-lineales
+# Estructuras lineales
 
 Una estructura lineal de datos o lista está conformada por ninguno, uno o varios elementos que tienen una relación de adyacencia ordenada donde existe un primer elemento, seguido de un segundo elemento y así sucesivamente hasta llegar al último.
 
