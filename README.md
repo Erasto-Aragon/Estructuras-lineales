@@ -16,36 +16,23 @@ A continuacion se presenta un ejemplo:
 
 **Ejemplo de pila**
 
-![image](https://user-images.githubusercontent.com/71147346/97498677-3ac54c80-1932-11eb-9a21-cd35eb0e52f2.png)
+Iniciamos el programa creando un nodo de tipo puntero, enseguida se muestra las funciones que se estara implementando en el menu, apilar elemento hara que guarde el elemento que añada el usuario, sapilar elemento hara que se salga el elemento de la aplilacion,muestra el elemento hara que muestre en pantalla la apilacion de elementos guardados, eliminacion de elemento hara que elimine algun elemento ya guardado en la apilacion.
 
-Tendremos que definir la estructura pila
+![1](https://user-images.githubusercontent.com/71147346/97511087-d0b9a100-194b-11eb-96d9-88d8923aefe8.JPG)
 
-![image](https://user-images.githubusercontent.com/71147346/97498753-57fa1b00-1932-11eb-9d42-d4184aa70969.png)
+![2](https://user-images.githubusercontent.com/71147346/97511371-913f8480-194c-11eb-9534-20e2971d0022.JPG)
 
-A continuación tenemos que definición de la función principal main()Para efectos de probar el menú de opciones, se definen de las tres funciones (insertar, visualizar y extraer) que por ahora  cada una, solo muestran un mensaje de la función que cumplen.
+![3](https://user-images.githubusercontent.com/71147346/97511386-9ac8ec80-194c-11eb-98f6-6a7eb4df16a6.JPG)
 
-![image](https://user-images.githubusercontent.com/71147346/97498823-7a8c3400-1932-11eb-87bd-e294a340320b.png)
+Para concluir el programa se creo la pila y mandando llamar las funciones ya hechas anteriormente
 
-![image](https://user-images.githubusercontent.com/71147346/97498860-8a0b7d00-1932-11eb-961f-8e85f0e278de.png)
+![4](https://user-images.githubusercontent.com/71147346/97511469-c8159a80-194c-11eb-87b3-1187d9f5da83.JPG)
 
-Definición de la función Insertar.
-Esta función permite ingresar los elementos a la pila, uno a uno como respuesta a elegir la opción insertar del menú de opciones, recuerde quitar la instrucción  cout <<“inserta”;   que se definió en esta función para efectos de probar el menú de opciones.
+![5](https://user-images.githubusercontent.com/71147346/97511485-d06dd580-194c-11eb-8c09-5fb9a3ee8d76.JPG)
 
-![image](https://user-images.githubusercontent.com/71147346/97499165-03a36b00-1933-11eb-964d-0be5c9457033.png)
+Ejecuccion del programa:
 
-Definición de la función Visualizar.
-Al igual que en la función insertar,  Esta función permite visualizar los elementos ingresados a la pila, como respuesta a elegir la opción visualizar del menú de opciones, recuerde quitar la instrucción  cout <<“visualiza”;   que se definió temporalmente en esta función para efectos de probar el menú de opciones.
 
-![image](https://user-images.githubusercontent.com/71147346/97499197-15850e00-1933-11eb-87cc-cc368641db8b.png)
-
-![image](https://user-images.githubusercontent.com/71147346/97499233-22096680-1933-11eb-8fff-5ddad5ec1090.png)
-
-Definición de la función Extraer.
-Finalmente tenemos la definición de la función extraer o eliminar que al igual que las funciones anteriores no retorna ningún valor y tampoco tiene parámetros.
-
-![image](https://user-images.githubusercontent.com/71147346/97499273-36e5fa00-1933-11eb-9dcd-ffe8f6e85c35.png)
-
-![image](https://user-images.githubusercontent.com/71147346/97499295-42392580-1933-11eb-82f1-8ceb0d9aa191.png)
 
 # Colas
 Una estructura fifo(First In First Out), el primero que entra será el primero en salir.
