@@ -32,7 +32,11 @@ Para concluir el programa se creo la pila y mandando llamar las funciones ya hec
 
 Ejecuccion del programa:
 
+![1](https://user-images.githubusercontent.com/71147346/97511748-6dc90980-194d-11eb-95fe-37cd60de4cc1.JPG)
 
+![2](https://user-images.githubusercontent.com/71147346/97511763-77527180-194d-11eb-9aa0-2fd3d75e60d4.JPG)
+
+![3](https://user-images.githubusercontent.com/71147346/97511777-80434300-194d-11eb-8ef8-2554c46ae6a3.JPG)
 
 # Colas
 Una estructura fifo(First In First Out), el primero que entra será el primero en salir.
